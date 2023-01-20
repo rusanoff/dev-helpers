@@ -19,11 +19,12 @@ Helpers for development
 
 ## JetBrains IDE плагины
 
-- Extra Icons
-- JS GraphQL
+- GraphQL
 - Rainbow Brackets
 - Styled Components & Styled JSX
 - Translation
 - GitToolbox
 - Atom Material Icons
 - PostCSS
+- .env files support
+- .ignore
