@@ -3,7 +3,7 @@ Helpers for development
 
 ## Статьи
 
-- [Примера портфолио](https://www.noupe.com/design/web-developer-portfolio-examples.html)
+- [Примеры портфолио](https://www.noupe.com/design/web-developer-portfolio-examples.html)
 
 
 
